@@ -32,6 +32,3 @@ The **CIFAR-10 dataset** consists of **60,000 color images** in **10 different c
 - **NumPy**
 
 ---
-
-## 📦 Project Structure
-
